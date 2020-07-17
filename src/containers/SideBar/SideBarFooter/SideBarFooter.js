@@ -19,7 +19,7 @@ export function SideBarFooter() {
         <div>All prices include GST</div>
       </div>
       <div className='footer-block'>
-        <div>© 2020 Youtube Clone App for educational purposes only</div>
+        <div>© 2020 WeTube - Youtube Clone App for educational purpose only.</div>
       </div>
     </React.Fragment>
   );
