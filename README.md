@@ -1,3 +1,3 @@
 ## WeTube
 
-A youtube clone app created using React & Redux on frontend with Node JS on backend & deployed on Netlify.
+A YouTube Clone App created using YouTube V3 API to fetch vidoes with React & Redux on frontend & Node JS on backend & deployed on Netlify.
